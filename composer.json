@@ -3,12 +3,6 @@
     "description": "Laravel wrapper for the Neo4j graph database REST interface",
     "keywords": ["laravel", "neo4j", "graph", "database", "neoeloquent"],
     "license": "MIT",
-    "authors": [
-        {
-            "name": "Abed Halawi",
-            "email": "abed.halawi@vinelab.com"
-        }
-    ],
     "require": {
         "php": ">=5.4.0",
         "illuminate/support": "5.4.*",
